@@ -1,0 +1,9 @@
+D:\Arbeit\C Sharp\Library Project\GameTestLib\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+D:\Arbeit\C Sharp\Library Project\GameTestLib\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+D:\Arbeit\C Sharp\Library Project\GameTestLib\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\Arbeit\C Sharp\Library Project\GameTestLib\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+D:\Arbeit\C Sharp\Library Project\GameTestLib\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+D:\Arbeit\C Sharp\Library Project\GameTestLib\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+D:\Arbeit\C Sharp\Library Project\GameTestLib\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Arbeit\C Sharp\Library Project\GameTestLib\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+D:\Arbeit\C Sharp\Library Project\GameTestLib\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb

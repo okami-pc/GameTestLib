@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.GameTestLib.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Arbeit\C Sharp\Library Project\GameTestLib\.idea\.idea.GameTestLib\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
