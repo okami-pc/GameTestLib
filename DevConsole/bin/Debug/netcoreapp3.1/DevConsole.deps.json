@@ -6,6 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "DevConsole/1.0.0": {
+        "dependencies": {
+          "TicTacToe": "1.0.0"
+        },
+        "runtime": {
+          "DevConsole.dll": {}
+        }
+      },
       "TicTacToe/1.0.0": {
         "runtime": {
           "TicTacToe.dll": {}
@@ -14,6 +22,11 @@
     }
   },
   "libraries": {
+    "DevConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "TicTacToe/1.0.0": {
       "type": "project",
       "serviceable": false,

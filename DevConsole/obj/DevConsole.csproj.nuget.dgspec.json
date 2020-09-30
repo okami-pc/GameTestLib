@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\DevConsole\\DevConsole.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\DevConsole\\DevConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\DevConsole\\DevConsole.csproj",
+        "projectName": "DevConsole",
+        "projectPath": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\DevConsole\\DevConsole.csproj",
+        "packagesPath": "C:\\Users\\deremer\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\DevConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\deremer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.prod/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\TicTacToe.csproj": {
+                "projectPath": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\TicTacToe.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\TicTacToe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\TicTacToe.csproj",
+        "projectName": "TicTacToe",
+        "projectPath": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\TicTacToe.csproj",
+        "packagesPath": "C:\\Users\\deremer\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\deremer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.prod/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

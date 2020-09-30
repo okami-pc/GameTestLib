@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "TicTacToe/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TicTacToe.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TicTacToe.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TicTacToe/1.0.0": {
+      "type": "project",
+      "path": "../TicTacToe/TicTacToe.csproj",
+      "msbuildProject": "../TicTacToe/TicTacToe.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "TicTacToe >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\deremer\\.nuget\\packages\\": {},
@@ -15,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\TicTacToe.csproj",
-      "projectName": "TicTacToe",
-      "projectPath": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\DevConsole\\DevConsole.csproj",
+      "projectName": "DevConsole",
+      "projectPath": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\DevConsole\\DevConsole.csproj",
       "packagesPath": "C:\\Users\\deremer\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\obj\\",
+      "outputPath": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\DevConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -40,7 +59,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\TicTacToe.csproj": {
+              "projectPath": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\TicTacToe.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

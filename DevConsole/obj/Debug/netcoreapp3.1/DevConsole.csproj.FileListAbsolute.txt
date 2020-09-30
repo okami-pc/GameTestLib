@@ -1,0 +1,16 @@
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\bin\Debug\netcoreapp3.1\DevConsole.exe
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\bin\Debug\netcoreapp3.1\DevConsole.deps.json
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\bin\Debug\netcoreapp3.1\DevConsole.runtimeconfig.json
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\bin\Debug\netcoreapp3.1\DevConsole.runtimeconfig.dev.json
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\bin\Debug\netcoreapp3.1\DevConsole.dll
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\bin\Debug\netcoreapp3.1\DevConsole.pdb
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\bin\Debug\netcoreapp3.1\TicTacToe.dll
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\obj\Debug\netcoreapp3.1\DevConsole.csprojAssemblyReference.cache
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\obj\Debug\netcoreapp3.1\DevConsole.AssemblyInfoInputs.cache
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\obj\Debug\netcoreapp3.1\DevConsole.AssemblyInfo.cs
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\obj\Debug\netcoreapp3.1\DevConsole.csproj.CoreCompileInputs.cache
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\obj\Debug\netcoreapp3.1\DevConsole.csproj.CopyComplete
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\obj\Debug\netcoreapp3.1\DevConsole.dll
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\obj\Debug\netcoreapp3.1\DevConsole.pdb
+D:\Users\deremer\Documents\Visual Studio 2019\Projects\GameTestLib\DevConsole\obj\Debug\netcoreapp3.1\DevConsole.genruntimeconfig.cache
