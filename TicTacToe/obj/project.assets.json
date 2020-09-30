@@ -8,25 +8,34 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Wolf\\.nuget\\packages\\": {}
+    "C:\\Users\\deremer\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arbeit\\C Sharp\\Library Project\\GameTestLib\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "D:\\Arbeit\\C Sharp\\Library Project\\GameTestLib\\TicTacToe\\TicTacToe.csproj",
-      "packagesPath": "C:\\Users\\Wolf\\.nuget\\packages\\",
-      "outputPath": "D:\\Arbeit\\C Sharp\\Library Project\\GameTestLib\\TicTacToe\\obj\\",
+      "projectPath": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\TicTacToe.csproj",
+      "packagesPath": "C:\\Users\\deremer\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Wolf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\deremer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "D:\\Arbeit\\C Sharp\\Library Project\\WorkWebApplication\\packages\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.prod/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -57,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

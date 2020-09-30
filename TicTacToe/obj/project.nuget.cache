@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YksP8Cjq7EXUUcLoqDqkXmXIPIisXJFegQoI+1PJCu3XqCN2yB5AK3wajQbkIBEW3oZEbpr2qRV2tJqrA5wJTQ==",
+  "dgSpecHash": "N0NDUZ4JHxmYJYCp50/Ap2wl4ko+XLZCePZ1jMjAirjY86Ajzkz4UDxEz3cePNlQfxaIvwJlEMoUuqpNVR2ANQ==",
   "success": true,
-  "projectFilePath": "D:\\Arbeit\\C Sharp\\Library Project\\GameTestLib\\TicTacToe\\TicTacToe.csproj",
+  "projectFilePath": "D:\\Users\\deremer\\Documents\\Visual Studio 2019\\Projects\\GameTestLib\\TicTacToe\\TicTacToe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
